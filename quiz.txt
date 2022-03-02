@@ -1,0 +1,5 @@
+1. In comparison to other variables, pointer stores the adress of an integer.
+2. *some_variable = &some_number.
+3. malloc() function is used to allocate dynamic memory.
+4. -
+5. -
