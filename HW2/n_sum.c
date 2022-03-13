@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	int n, s;
+	int n, s = 0;
 
 	printf("This program calculates the sum of all natural numbers until the inputted number.\nPlease enter a positive integer:\n");
        scanf("%d", &n);
